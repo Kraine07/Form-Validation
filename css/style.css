@@ -1,0 +1,27 @@
+.mybg-light-orange{
+  background-color: #fff3e0 !important;
+}
+
+.is-form-valid{
+  border:2px solid rgb(51, 240, 51);
+  border-right: 15px solid rgb(51, 240, 51);
+  box-shadow: 0 0 7px rgb(51, 240, 51);
+}
+
+.is-form-invalid{
+  border:1px solid rgb(253, 25, 25);
+  border-right: 15px solid rgb(253, 25, 25);
+  box-shadow: 0 0 7px rgb(253, 25, 25);
+}
+
+.text-success{
+  color: rgb(51, 240, 51) !important;
+  font-size: 14px !important;
+  margin-top: 5px !important;
+}
+
+.text-danger{
+  color:rgb(253, 25, 25) !important;
+  font-size: 14px !important;
+  margin-top: 5px !important;
+}
